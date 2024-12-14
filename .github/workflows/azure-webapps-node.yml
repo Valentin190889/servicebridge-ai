@@ -61,4 +61,4 @@ jobs:
           app-name: 'Servicebridge-ai'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_065EDEE129484CC9AAEAEF390210443F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
